@@ -1,4 +1,4 @@
-# Clone of Fork the Repository
+# Clone or Fork the Repository
 
 
 
