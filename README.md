@@ -8,7 +8,7 @@ ___
 
 ## Customize it:
 
-1. Fork the repository or download the source code
+1. [Fork/Clone the repository](https://github.com/dk-raw/responsive-website-template/blob/main/CLONE.md)
 2. Open the file with your IDE
 3. Alter the HTML (text, images, links etc.)
 4. Alter the CSS (colors, fonts etc.)
