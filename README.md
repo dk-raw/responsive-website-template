@@ -2,7 +2,7 @@
 
 ![demo](https://user-images.githubusercontent.com/68110106/113343293-52b55800-9338-11eb-8a09-be15b6e1f5eb.png)
 
-_a higly customizable minimalistic website template with HTML5 and CSS 2.1_
+_a higly customizable minimalistic website template using HTML5 and CSS 2.1_
 
 ___
 
