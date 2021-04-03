@@ -23,4 +23,4 @@ ___
 ## Need support?
 
 - email me at [hello@dkatsios.tk](mailto:hello@dkatsios.tk?subject=minimalistic%20website%20template%20github)
-- find other ways at [my website](https://dkatsios.ml "dkatsios.ml")
+- find other ways at [my website](https://dkatsios.ml)
