@@ -13,7 +13,7 @@ ___
 3. Alter the HTML (text, images, links etc.)
 4. Alter the CSS (colors, fonts etc.)
 5. Add more HTML pages
-6. Publish the website
+6. Publish the website!
 
 ## Languages used:
 
